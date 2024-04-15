@@ -1,0 +1,25 @@
+{
+    "beatles-releases":[
+        {
+            "type":"Studio albums",
+            "year":"1963",
+            "title":"Please Please Me"
+        },
+        {
+            "type":"Studio albums",
+            "year":"1964",
+            "title":"A Hard Day's Night"
+        },
+        {
+            "type":"Compilation albums",
+            "year":"1964",
+            "title":"Jolly What!"
+        },
+        {
+            "type":"Compilation albums",
+            "year":"1964",
+            "title":"The Beatles Beat"
+        }
+
+    ]
+}

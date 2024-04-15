@@ -1,0 +1,25 @@
+{
+    "queen-releases":[
+        {
+            "type":"Studio albums",
+            "year":"1973",
+            "title":"Queen"
+        },
+        {
+            "type":"Live albums",
+            "year":"1974",
+            "title":"Queen II"
+        },
+        {
+            "type":"Compilation albums",
+            "year":"1997",
+            "title":"Queen Rocks"
+        },
+        {
+            "type":"Single",
+            "year":"1974",
+            "title":"Killer Queen"
+        }
+
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "little-mix-releases":[
+        {
+            "type":"Studio albums",
+            "year":"2012",
+            "title":"DNA"
+        },
+        {
+            "type":"Studio albums",
+            "year":"2013",
+            "title":"Salute"
+        },
+        {
+            "type":"Single",
+            "year":"2013",
+            "title":"Move"
+        },
+        {
+            "type":"Compilation albums",
+            "year":"2021",
+            "title":"Between Us"
+        }
+
+    ]
+}

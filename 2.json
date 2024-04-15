@@ -1,0 +1,27 @@
+
+
+{
+    "honeyblood-releases":[
+        {
+            "type":"Studio albums",
+            "year":"2014",
+            "title":"Honeyblood "
+        },
+        {
+            "type":"Live albums",
+            "year":"2016",
+            "title":"Babes Never Die"
+        },
+        {
+            "type":"Single",
+            "year":"2012",
+            "title":"Thrift Shop"
+        },
+        {
+            "type":"Single",
+            "year":"2014",
+            "title":"Choker"
+        }
+
+    ]
+}

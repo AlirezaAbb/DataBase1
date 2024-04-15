@@ -1,0 +1,25 @@
+{
+    "revolution_releases":[
+        {
+            "type":"Albums",
+            "year":"1985",
+            "title":"Around The World In A Day"
+        },
+        {
+            "type":"Albums",
+            "year":"1984",
+            "title":"Purple Rain"
+        },
+        {
+            "type":"Albums",
+            "year":"1986",
+            "title":"Parade"
+        },
+        {
+            "type":"Singles",
+            "year":"1984",
+            "title":"Let's Go Crazy"
+        }
+
+    ]
+}
