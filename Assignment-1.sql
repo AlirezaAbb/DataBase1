@@ -1,9 +1,9 @@
 /* 
 •	Student Name:		Alireza Abbasi
-•	Student Number:	    153388210
+•	Student Number:	    	********
 •	Course Section:		DBA625NSB – Winter 2023
-•	Professor: 		    Dr. Les King
-•	School:			    Seneca College – SIA Campus
+•	Professor: 		Dr. Les King
+•	School:			Seneca College – SIA Campus
 
 */
 
